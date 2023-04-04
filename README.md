@@ -19,3 +19,8 @@
 **Get available meal (get)**
 - http://localhost:3000/api/list/available
 
+
+
+## Explications
+
+![Architecture Monolithe](./assets/monolithe.png)
