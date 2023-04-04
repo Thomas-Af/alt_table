@@ -11,7 +11,7 @@ routes(app);
 
 
 app.get('/alt-table', (req, res) => {
-  res.send({ message: "Welcome in Alt'Table restaurant" });
+  res.send({ message: "Bienvenue au restaurant Alt'Table" });
 });
 
 
