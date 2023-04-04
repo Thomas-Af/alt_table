@@ -24,7 +24,7 @@
 ## Explications
 
 - **Monolithe : Solution court terme**
-![Architecture Monolithe](./assets/monolithe.png)
+![Architecture Monolithe](./assets/monolithes.png)
 
 La solution court terme pour ce projet serait de faire une architecture Monolithe découpé en plusieurs middlewares, avec un seul repository et une seule base de données. Toutes les équipes travaillant sur le projet travaillerait sur ce monolithe.
 
